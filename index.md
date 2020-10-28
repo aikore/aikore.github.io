@@ -1,1 +1,1 @@
-publish
+index.html
