@@ -187,6 +187,7 @@ h3 {
         /* header mobile*/
 
     .header-nav{
+        max-width: 560px
         grid-template-columns: auto auto;
     }
     .nav-links {
